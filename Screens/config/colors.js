@@ -1,0 +1,15 @@
+export default {
+  primary: "#3b3d40",
+  secondary: "#fff",
+  tertiary: "#242424",
+  grey: "#525252",
+  bottomtab: "#fff",
+  bottomTabIconColor: "#1DA1F2",
+  headerBackground: "#fff",
+  headerText: "#000",
+  headerIconColor: "#1DA1F2",
+  drawerIconColor: "#000",
+  drawerOpacity: 0.7,
+  postIconColor: "#525252",
+  refreshColor: "#1DA1F2",
+};

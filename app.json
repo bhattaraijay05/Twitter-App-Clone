@@ -2,13 +2,13 @@
   "expo": {
     "name": "twitter",
     "slug": "twitter",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#1DA1F2"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -21,6 +21,9 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.bhattaraijay05.twitter"
     }
   }
 }
